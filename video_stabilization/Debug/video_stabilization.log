@@ -1,0 +1,5 @@
+﻿  Homography_from_trj_backup_2016年7月4日写论文版本【调好了参数】.cpp
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\homography_from_trj_backup_2016年7月4日写论文版本【调好了参数】.cpp(710): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  stab_Harris_FREAK_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(1882): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  正在生成代码...

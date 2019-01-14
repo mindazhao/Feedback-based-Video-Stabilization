@@ -1,0 +1,92 @@
+﻿  Homography_from_trj_backup_2016年7月4日写论文版本【调好了参数】.cpp
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\homography_from_trj_backup_2016年7月4日写论文版本【调好了参数】.cpp(87): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\homography_from_trj_backup_2016年7月4日写论文版本【调好了参数】.cpp(128): warning C4305: “=”: 从“double”到“float”截断
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\homography_from_trj_backup_2016年7月4日写论文版本【调好了参数】.cpp(130): warning C4305: “=”: 从“double”到“float”截断
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\homography_from_trj_backup_2016年7月4日写论文版本【调好了参数】.cpp(132): warning C4305: “=”: 从“double”到“float”截断
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\homography_from_trj_backup_2016年7月4日写论文版本【调好了参数】.cpp(134): warning C4305: “=”: 从“double”到“float”截断
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\homography_from_trj_backup_2016年7月4日写论文版本【调好了参数】.cpp(137): warning C4305: “=”: 从“double”到“float”截断
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\homography_from_trj_backup_2016年7月4日写论文版本【调好了参数】.cpp(139): warning C4305: “=”: 从“double”到“float”截断
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\homography_from_trj_backup_2016年7月4日写论文版本【调好了参数】.cpp(141): warning C4305: “=”: 从“double”到“float”截断
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\homography_from_trj_backup_2016年7月4日写论文版本【调好了参数】.cpp(143): warning C4305: “=”: 从“double”到“float”截断
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\homography_from_trj_backup_2016年7月4日写论文版本【调好了参数】.cpp(175): warning C4305: “+=”: 从“double”到“float”截断
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\homography_from_trj_backup_2016年7月4日写论文版本【调好了参数】.cpp(177): warning C4305: “/=”: 从“double”到“float”截断
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\homography_from_trj_backup_2016年7月4日写论文版本【调好了参数】.cpp(341): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\homography_from_trj_backup_2016年7月4日写论文版本【调好了参数】.cpp(491): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\homography_from_trj_backup_2016年7月4日写论文版本【调好了参数】.cpp(495): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\homography_from_trj_backup_2016年7月4日写论文版本【调好了参数】.cpp(541): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\homography_from_trj_backup_2016年7月4日写论文版本【调好了参数】.cpp(648): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\homography_from_trj_backup_2016年7月4日写论文版本【调好了参数】.cpp(652): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\homography_from_trj_backup_2016年7月4日写论文版本【调好了参数】.cpp(702): warning C4305: “初始化”: 从“double”到“float”截断
+  stab_Harris_FREAK_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(191): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(232): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(264): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(274): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(285): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(343): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(344): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(438): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(439): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(535): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(436): warning C4101: “et”: 未引用的局部变量
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(436): warning C4101: “st”: 未引用的局部变量
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(636): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(677): warning C4244: “/=”: 从“double”转换到“float”，可能丢失数据
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(691): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(695): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(718): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(726): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(727): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(728): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(729): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(750): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(765): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(766): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(811): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(818): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(822): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(823): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(842): warning C4244: “初始化”: 从“float”转换到“unsigned char”，可能丢失数据
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(842): warning C4244: “初始化”: 从“float”转换到“const unsigned char”，可能丢失数据
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(851): warning C4838: 从“double”转换到“const float”需要收缩转换
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(851): warning C4305: “初始化”: 从“double”到“const float”截断
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(876): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(877): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(891): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(931): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(981): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(1011): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(1017): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(1026): warning C4244: “参数”: 从“float”转换到“const int”，可能丢失数据
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(1042): warning C4244: “参数”: 从“float”转换到“const int”，可能丢失数据
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(1063): warning C4244: “参数”: 从“float”转换到“const int”，可能丢失数据
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(1082): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(1092): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(1124): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(1133): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(1165): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(1209): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(1231): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(1337): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(1344): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(1348): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(1368): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(1389): warning C4244: “参数”: 从“const float”转换到“int”，可能丢失数据
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(1432): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(1490): warning C4838: 从“const float”转换到“int”需要收缩转换
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(1490): warning C4244: “初始化”: 从“const float”转换到“int”，可能丢失数据
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(1499): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(1630): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(1648): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(1665): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(1756): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(1757): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(1779): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(1780): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(1872): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(925): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+  c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(925): note: 请考虑在格式字符串中使用“%zd”
+c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(1002): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+  c:\users\zmd19\desktop\video_stabilization\video_stabilization\stab_harris_freak_trajectory_backup_2016年7月4日写论文版本【调好了参数】.cpp(1002): note: 请考虑在格式字符串中使用“%zd”
+  正在生成代码...
+  video_stabilization.vcxproj -> C:\Users\zmd19\Desktop\video_stabilization\x64\Debug\video_stabilization.exe
